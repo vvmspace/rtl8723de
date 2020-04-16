@@ -2,6 +2,10 @@
 
 Fixed compatibility with Linux Kernel 4.15 version and older
 
+## Ubuntu 20.04:
+
+Driver is in the box. Don't know which.
+
 ## Tested on xUbuntu 18.10:
 
 Previos version of rtl8723de driver was not compatible with Ubuntu 18.10 and may be Ubuntu 18.04. I was tired from Ethernet and I tried to find decision. I found an unofficial driver at forum.ubuntu.ru, but it was not compatible with my core. So I've found same issue on rtl8812au and fixed it.
