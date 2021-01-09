@@ -2,6 +2,14 @@
 
 Fixed compatibility with Linux Kernel 4.15 version and older
 
+## PROJECT CLOSED
+
+Look: https://github.com/smlinux/rtl8723de
+
+Thank you!
+
+BTC: 15f2m6wXdGnQ6TN9Co23uxnmjXfJNFXXCs
+
 ## Ubuntu 20.04:
 
 Driver is in the box. Don't know which.
