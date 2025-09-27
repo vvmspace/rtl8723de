@@ -28,6 +28,13 @@ sudo dkms install rtl8723de/5.1.1.8_21285.20171026_COEX20170111-1414
 sudo reboot
 ```
 
+## Check also
+
+- [AI setup](https://aisetup.me) - explain your project, answer questions for details and get cursor rules and instructions capatible with the most vibe coding editors like Cursor, WindSurf, Codex etc.
+- [Paste to QR code](https://paste2qr.com) - QR code generator with multiple languages support.
+- [XMR to USDT exchange](https://xmr2usdt.com) & [USDT to XMR exchange](https://usdt2xmr.com) - XMR <> USDT exchange with guides and news about Monero.
+- [Potatoes recipes](https://potatoes.recipes) - potato recipies, history of potato and news.
+
 ## Click star if it works
 
 Thank you!
